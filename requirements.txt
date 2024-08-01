@@ -1,0 +1,9 @@
+requests
+pandas
+numpy
+sqlalchemy
+matplotlib
+pandas-market-calendars
+pmdarima
+scikit-learn
+python-dotenv
