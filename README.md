@@ -1,4 +1,4 @@
-# Momentum Model
+# ML - Momentum Model
 
 This project implements a momentum-based trading model. The model fetches/processes financial data, builds datasets, and applies machine learning techniques to predict momentum.
 
